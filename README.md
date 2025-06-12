@@ -59,11 +59,11 @@
   <img width="100%" style="margin:0px;" height="1" src="assets/line.png?v=4" />
 </p>
 
-<p>
-  Listtu
-<p>
-
 <img style="margin-left:30px"  align="right" width="180" src="assets/listtu/screenshot.png" />
+
+<p>
+   Listtu – Gerenciador Avançado de Tarefas e Workspaces
+<p>
 
 <p>
     <img src="https://img.shields.io/badge/TypeScript-F7DF1E?style=flat&logo=typescript&logoColor=4ADEDD&color=000" />
@@ -89,6 +89,51 @@
     </a>
   </p>
 
+ <p align="left" >
+  <img width="100%" style="margin:0px;" height="1" src="assets/line.png?v=4" />
+</p>
+
+<p>
+   Gestor Lite – Controle financeiro, Cobranças automáticas através do whatsapp e email.
+<p>
+
+<p>
+    <img src="https://img.shields.io/badge/PHP 8-F7DF1E?style=flat&logo=gradle&logoColor=4ADEDD&color=000" />
+    <img src="https://img.shields.io/badge/Laravel-61DAFB?style=flat&logo=laravel&logoColor=4ADEDD&color=000" />
+     <img src="https://img.shields.io/badge/Python-61DAFB?style=flat&logo=python&logoColor=4ADEDD&color=000" />
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=4ADEDD&color=000" />
+    <img src="https://img.shields.io/badge/RabbitMQ-1572B6?style=flat&logo=rabbitmq&logoColor=4ADEDD&color=000" />
+    <img src="https://img.shields.io/badge/JWT & oAuth-1572B6?style=flat&logo=json&logoColor=4ADEDD&color=000" />
+    <img src="https://img.shields.io/badge/JavaScript-1572B6?style=flat&logo=javascript&logoColor=4ADEDD&color=000" />
+    <img src="https://img.shields.io/badge/Jquery-1572B6?style=flat&logo=jquery&logoColor=4ADEDD&color=000" />
+    <img src="https://img.shields.io/badge/Google APIs-1572B6?style=flat&logo=google&logoColor=4ADEDD&color=000" />
+    <img src="https://img.shields.io/badge/API Whatsapp-1572B6?style=flat&logo=whatsapp&logoColor=4ADEDD&color=000" />
+    <img src="https://img.shields.io/badge/Cloudflare-1572B6?style=flat&logo=cloudflare&logoColor=4ADEDD&color=000" />
+    <img src="https://img.shields.io/badge/Ubuntu-1572B6?style=flat&logo=ubuntu&logoColor=4ADEDD&color=000" />
+    <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css&logoColor=4ADEDD&color=000" />
+    <img src="https://img.shields.io/badge/POO-FCC624?style=flat&logo=devbox&logoColor=4ADEDD&color=000" />
+</p>
+
+<img style="margin-left:30px;margin-bottom:10px;"  align="right" width="100%" src="assets/gestorlite/screenshot.png" />
+
+
+  <p>
+GestorLite é uma plataforma web robusta desenvolvida para provedores de internet, técnicos autônomos e empreendedores que precisam gerenciar clientes, planos, conexões, cobranças e automações de forma eficiente, centralizada e profissional.
+  </p>
+
+  <p>
+GestorLite é voltado para gestão prática, rápida e segura, permitindo que pequenos provedores e negócios técnicos tenham controle total sem depender de soluções caras e engessadas. Tudo foi desenvolvido sob medida para ser funcional, leve e eficiente.
+  </p>
+
+  <p  align="center" style="margin-right:10px" >
+    <a href="https://gestorlite.com" >
+      www.gestorlite.com
+    </a>
+  </p>
+
+ <p align="left" >
+  <img width="100%" style="margin:0px;" height="1" src="assets/line.png?v=4" />
+</p>
 
 
 <p  align="left" >

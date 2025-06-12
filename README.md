@@ -48,6 +48,49 @@
   </a>
 </p>
 
+
+<p  align="left" >
+  <img style="margin:0px;" width="100%" height="2" src="assets/line.png?v=4" />
+</p>
+<p style="margin:0px;color:#4ADEDD;" >
+  PROJETOS
+</p>
+ <p align="left" >
+  <img width="100%" style="margin:0px;" height="1" src="assets/line.png?v=4" />
+</p>
+
+<p>
+  Listtu
+<p>
+
+<img style="margin-left:30px"  align="right" width="180" src="assets/listtu/screenshot.png" />
+
+<p>
+    <img src="https://img.shields.io/badge/TypeScript-F7DF1E?style=flat&logo=typescript&logoColor=4ADEDD&color=000" />
+    <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=4ADEDD&color=000" />
+     <img src="https://img.shields.io/badge/Expo-61DAFB?style=flat&logo=expo&logoColor=4ADEDD&color=000" />
+    <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=4ADEDD&color=000" />
+    <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css&logoColor=4ADEDD&color=000" />
+    <img src="https://img.shields.io/badge/IOS-FCC624?style=flat&logo=apple&logoColor=4ADEDD&color=000" />
+   <img src="https://img.shields.io/badge/Android-FCC624?style=flat&logo=android&logoColor=4ADEDD&color=000" />
+  </p>
+
+  <p>
+  Listtu é uma aplicação completa de gerenciamento de times, tarefas e projetos, com foco em produtividade, colaboração e organização visual. Pensado para times reais, ele oferece recursos avançados com desempenho fluido, mesmo em dispositivos móveis.
+  </p>
+
+  <p>
+  O Listtu foi projetado para ser modular, rápido e confiável, com atenção a detalhes visuais e comportamento realista para equipes que buscam produtividade sem complexidade desnecessária. Cada feature foi construída com lógica sólida e otimizações tanto no client quanto no backend.
+  </p>
+
+  <p  align="right" style="margin-right:10px" >
+    <a href="https://apps.apple.com/br/app/listtu/id6746577013?platform=iphone" >
+      <img src="assets/listtu/appstore_badge.png" width="150" />
+    </a>
+  </p>
+
+
+
 <p  align="left" >
   <img style="margin:0px;" width="100%" height="2" src="assets/line.png?v=4" />
 </p>
@@ -170,44 +213,3 @@ eT0iMzYiIGZvbnQtc2l6ZT0iMzAiIGZpbGw9IiMwMDAiIGZvbnQtZmFtaWx5PSJBcmlhbCI+UFM8L3Rl
   <img src="https://img.shields.io/badge/Figma-00ADD8?style=flat&logo=figma&logoColor=4ADEDD&color=000" />
 
 <p>
-
-
-<p  align="left" >
-  <img style="margin:0px;" width="100%" height="2" src="assets/line.png?v=4" />
-</p>
-<p style="margin:0px;color:#4ADEDD;" >
-  PROJETOS
-</p>
- <p align="left" >
-  <img width="100%" style="margin:0px;" height="1" src="assets/line.png?v=4" />
-</p>
-
-<p>
-  Listtu
-<p>
-
-<img style="margin-left:30px"  align="right" width="200" src="assets/listtu/screenshot.png" />
-
-<p>
-    <img src="https://img.shields.io/badge/TypeScript-F7DF1E?style=flat&logo=typescript&logoColor=4ADEDD&color=000" />
-    <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=4ADEDD&color=000" />
-     <img src="https://img.shields.io/badge/Expo-61DAFB?style=flat&logo=expo&logoColor=4ADEDD&color=000" />
-    <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=4ADEDD&color=000" />
-    <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css&logoColor=4ADEDD&color=000" />
-    <img src="https://img.shields.io/badge/Apple-FCC624?style=flat&logo=apple&logoColor=4ADEDD&color=000" />
-   <img src="https://img.shields.io/badge/Android-FCC624?style=flat&logo=android&logoColor=4ADEDD&color=000" />
-  </p>
-
-  <p>
-  Listtu é uma aplicação completa de gerenciamento de times, tarefas e projetos, com foco em produtividade, colaboração e organização visual. Pensado para times reais, ele oferece recursos avançados com desempenho fluido, mesmo em dispositivos móveis.
-  </p>
-
-  <p>
-  O Listtu foi projetado para ser modular, rápido e confiável, com atenção a detalhes visuais e comportamento realista para equipes que buscam produtividade sem complexidade desnecessária. Cada feature foi construída com lógica sólida e otimizações tanto no client quanto no backend.
-  </p>
-
-  <p  align="right" style="margin-right:10px" >
-    <a >
-      <img src="assets/listtu/appstore_badge.png" width="150" />
-    </a>
-  </p>

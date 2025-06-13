@@ -241,6 +241,20 @@ O projeto foi criado e gravado, com o vídeo disponível <a href="https://youtub
 </p>
 
 
+<p>
+ Demais projetos:
+</p>
+
+<p>
+- <a href="https://www.youtube.com/watch?v=Zojn_gkoakI" >Painel Entrega de produtos digitais automático Mercado Livre</a>
+- <a href="https://www.youtube.com/watch?v=A9RuJh2CyZE" >Gerenciador de Grupos e Bots no Telegram</a>
+- <a href="https://www.youtube.com/watch?v=KqSBx5K6_vI" >Painel entrega P2P automático por Whatsapp</a>
+- <a href="https://github.com/luannsr12/api-correios" >API Rastreio Correios</a>
+- <a href="https://github.com/luannsr12/menuia" >SDK Menuia Whatsapp</a>
+- <a href="https://github.com/luannsr12/lance" >SDK Football Data</a>
+</p>
+
+
 <p  align="left" >
   <img style="margin:0px;" width="100%" height="2" src="assets/line.png?v=4" />
 </p>

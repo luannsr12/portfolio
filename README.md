@@ -200,6 +200,8 @@ Com foco total em praticidade, Cobrei.vc oferece uma experiência leve e direta,
   <img width="100%" style="margin:0px;" height="1" src="assets/line.png?v=4" />
 </p>
 
+
+<img style="margin-left:30px;margin-bottom:10px;" align="right" width="200px" src="assets/rocket/screenshot.png" />
  
 <p>
    Rocket - Jogo web
@@ -214,7 +216,7 @@ Com foco total em praticidade, Cobrei.vc oferece uma experiência leve e direta,
 </p>
 
 
-  <img style="margin-left:30px;margin-bottom:10px;" align="right" width="200px" src="assets/rocket/screenshot.png" />
+
 <p>
 Rocket é um jogo simples desenvolvido em JavaScript, com foco em interatividade e lógica em tempo real.
 </p>
@@ -239,7 +241,7 @@ O projeto foi criado e gravado, com o vídeo disponível <a href="https://youtub
 </p>
 
 
- <p  align="left" >
+<p  align="left" >
   <img style="margin:0px;" width="100%" height="2" src="assets/line.png?v=4" />
 </p>
 <p style="margin:0px;color:#4ADEDD;" >

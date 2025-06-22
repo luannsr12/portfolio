@@ -1,46 +1,8 @@
-<img src="assets/cover.jpg" style="margin:10px;" width="100%" alt="ilustração de um computador" >
-
 <p align="left"> 
-  ✌ Faala! <strong>Luan</strong> aqui. Sou Full Stack Developer, e este é meu portfólio.
-  <br />
-  ☕ Curto código limpo, funcional e sem enrolação — assim como meu café: forte e sem açúcar.
-  <br />
-  🔍 Sempre explorando novas tecnologias.
-  <br />
   🦄 Fique à vontade pra explorar os projetos e me chamar se quiser trocar ideia ou colaborar.
 </p>
 
-```javascript
-// arquivo: Luan.ts
-
-import Developer from 'Luan';
-
-class AboutMe extends Desenvolvedor {
-  name = 'Luan Alves';
-  role = 'Desenvolvimento Fullstack';
-  born = '1999';
-  favorite = ['React', 'PHP'];
-  location = 'Paraná, BR' as const | 'Pernanbuco, BR' as const;
-  personality = 'Objetivo, direto, viciado em café sem açúcar e cético por natureza.';
-  mainStack = 'PHP (Backend)';
-  clubs = ['Corinthians'];
-}
-
-class Skills extends Developer {
-  langs = ['PHP', 'JavaScript', 'TypeScript', 'Python', 'SQL'];
-  backend = ['Laravel', 'Slim', 'Node.js'];
-  frontend = ['React', 'Vue', 'Alpine.js'];
-  mobile = ['React Native', 'Expo'];
-  tools = ['Docker', 'Git'];
-  outhers = ['JWT', 'REST APIs', 'RabbitMQ', 'Kanban', 'Zod', 'TailwindCSS'];
-}
-
-export { AboutMe, Skills };
-
-```
-
  <img min-width="400px" max-width="200px" width="200px" align="right" href="https://codetime.dev" alt="CodeTime Badge" src="https://img.shields.io/endpoint?style=flat-square&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D26223">
-
 <p >
 
   <a href="#" title="Gmail">

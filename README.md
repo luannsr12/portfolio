@@ -57,7 +57,8 @@
     <a href="https://apps.apple.com/br/app/listtu/id6746577013?platform=iphone" >
       <img src="assets/listtu/appstore_badge.png" width="150" />
     </a>
-    <a href="https://play.google.com/store/apps/details?id=app.listtu.com.br" >  <img src="assets/listtu/image.pnpngwidth="150" />
+    <a href="https://play.google.com/store/apps/details?id=app.listtu.com.br" >  
+      <img src="assets/listtu/image.png" width="150" />
     </a>
   </p>
 
